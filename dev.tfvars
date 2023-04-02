@@ -1,0 +1,5 @@
+ami-type = "ami-04581fbf744a7d11f"
+instance_type = "t2.nano"
+instance-name = "Posgrestsql-server-dev"
+env = "dev"
+team = "dev Team"
